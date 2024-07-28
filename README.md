@@ -1,8 +1,13 @@
-# React + Vite
+<h1 align="center">S.I Trail :books: </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The SitRAIL Project is being developed with the aim of storing everything I am learning in my higher education course in Information Systems.
 
-Currently, two official plugins are available:
+# Technologies 💻
+* ReacJS
+* CSS
+* JavaScript
+* Material UI
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  Made with ❤️ by Deyvid Matheus
+</p>
