@@ -1,18 +1,15 @@
-import '../src/styles/styles.css'
+import '../src/styles/header.css'
 import '../src/styles/global.css'
 
+import Header from './components/Header'
 import About from './components/About';
 
 function App() {
 
   return (
     <>
-      <div className="context">
-        <h1>Manual do Aluno de <br />
-        Sistemas de Informação</h1>
-
+        <Header />
         <About />
-      </div>
     </>
   )
 }

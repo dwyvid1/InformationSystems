@@ -14,17 +14,11 @@
     --green-500: #00875f;
 
     font-family: 'Exo', sans-serif;
+    background-color: var(--gray-800);
 }
-
 
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-
-body {
-    background: #121214;
-    color: #fff;
-    font-family: 'Exo', sans-serif;
-  }

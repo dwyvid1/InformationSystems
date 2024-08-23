@@ -1,21 +1,17 @@
 import '../styles/global.css'
-import '../styles/styles.css'
 import '../styles/About.css'
 
 function About() {
     return (
         <>  
             <div className="about-container">
-               <h3>Sobre o Projeto</h3>
-                <h4>Bem-vindo ao Manual do Aluno de Sistemas de Informação!</h4> 
+                <h1>Bem-vindo ao Manual do Aluno de Sistemas de Informação!</h1> 
                 <p>
-                    Este projeto surgiu da necessidade de organizar e compartilhar o conhecimento adquirido ao longo do curso de Sistemas de Informação. A ideia é criar um repositório digital abrangente e acessível, que reúna os principais conceitos, práticas e recursos que um estudante da área deve conhecer.
-                    A motivação para criar este site é duplamente prática e pessoal. Em primeiro lugar, ao documentar e estruturar o material que estou estudando, posso revisitar e consolidar o conhecimento de forma mais eficiente. Em segundo lugar, desejo contribuir para a comunidade acadêmica e para futuros alunos que podem se beneficiar de uma fonte de informação clara e organizada sobre tópicos essenciais da área de Sistemas de Informação.
+                    Este projeto foi desenvolvido para organizar e compartilhar o conhecimento adquirido no curso de Sistemas de Informação. O objetivo é criar um repositório digital que compile conceitos, práticas e recursos essenciais para estudantes da área, facilitando o acesso e a revisão do material. A motivação para a criação do site é dupla: consolidar o próprio conhecimento de forma eficiente e contribuir com uma fonte de informação clara e organizada para a comunidade acadêmica e futuros alunos.
                 </p>
 
                 <p>
-                    O Manual do Aluno de Sistemas de Informação abrange uma ampla gama de temas, desde fundamentos teóricos até práticas de mercado. Esperamos que este site seja uma ferramenta valiosa não apenas para quem está começando na área, mas também para aqueles que buscam aprofundar seus conhecimentos e acompanhar as tendências e melhores práticas.
-                    Convido você a explorar o conteúdo, aproveitar os recursos disponíveis e, se desejar, contribuir com sugestões e feedbacks para que possamos melhorar continuamente o Manual. Juntos, podemos construir um espaço de aprendizado dinâmico e colaborativo!
+                    O Manual do Aluno de Sistemas de Informação aborda uma ampla gama de temas, desde fundamentos teóricos até práticas de mercado, com o intuito de ser uma ferramenta valiosa tanto para iniciantes quanto para aqueles que desejam aprofundar seus conhecimentos e acompanhar as tendências e melhores práticas da área. O site convida os usuários a explorar o conteúdo, aproveitar os recursos disponíveis e oferecer sugestões e feedback para ajudar na melhoria contínua do Manual.
                 </p>
             </div>
         </>

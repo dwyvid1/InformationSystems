@@ -1,0 +1,32 @@
+.context {
+    width: 100%;
+    height: 150px;
+    display: inline-block;
+
+    background-color: var(--gray-900);
+    color: white;
+}
+
+.context h1{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 1rem;
+}
+
+.context h2 {
+    text-align: center;
+}
+
+@media (max-width: 1150px) {
+    .context h1 {
+        font-size: 2rem;
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 800px) {
+    .context h1 {
+        font-size: 1.7rem;
+        margin-top: 1.7rem;
+    }
+}
