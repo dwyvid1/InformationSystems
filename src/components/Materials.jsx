@@ -2,9 +2,9 @@ import '../styles/global.css'
 import '../styles/Materials.css'
 
 function Materials() {
+
     return (
         <>
-
             <div className="materials-container">
                 <h1>1º Período</h1>
                 <h2>2024.3</h2>
