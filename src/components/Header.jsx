@@ -6,8 +6,8 @@ function Header() {
   return (
     <>
       <div className="context">
-        <h1>Manual do Aluno de <br />
-        Sistemas de Informação</h1>
+        <h1>Manual do Aluno de</h1>
+        <h2>Sistemas de Informação</h2>
       </div>
     </>
   )
