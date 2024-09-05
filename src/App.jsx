@@ -4,6 +4,7 @@ import '../src/styles/global.css';
 import Header from './components/Header';
 import About from './components/About';
 import Materials from './components/Materials'; 
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Header />
         <About />
         <Materials />
+        <Footer />
       </>  
   );
 }
